@@ -6,8 +6,12 @@
     "target": "es6",
     "strict": true,
     "lib": [
-      "ESNext"
+      "ESNext",
+      "dom"
     ],
+    "typeRoots": [
+      "./node_modules/@types"
+    ]
   },
   "include": ["src"]
 }

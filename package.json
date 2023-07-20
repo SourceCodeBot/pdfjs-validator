@@ -1,14 +1,14 @@
 {
   "name": "pdfjs-validator",
-  "version": "0.0.2",
-  "description": "",
+  "version": "0.0.3",
+  "description": "Extension for pdfjs to validate a pdf.",
   "main": "index.js",
   "scripts": {
     "build": "tsc"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["pdfjs", "testing"],
+  "author": "SourceCodeBot <dev@nils-heinemann.de>",
+  "license": "MIT",
   "devDependencies": {
     "typescript": "^5.1.6"
   },
