@@ -1,8 +1,9 @@
 {
   "name": "pdfjs-validator",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "Extension for pdfjs to validate a pdf.",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc"
   },
